@@ -42,9 +42,7 @@ Img_name HandGestureDataset/train/TWO/img001.png RESULT TWO
 - The trained model's architecture is saved in `model.json`.
 - Model weights are saved in `model.weights.h5`.
 
-## Future Improvements
-- Add more classes for extended gesture recognition.
-- Improve accuracy with additional layers and fine-tuning.
+## Future Improvement
 - Integrate with a real-time webcam interface for live recognition.
 
 
